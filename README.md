@@ -8,7 +8,7 @@ Obs.: Esse aplicativo é apenas um app estático, caso queira modificar os dados
 
 ### Telas Feitas
 
-- [ x ] Minhas turmas
+- [x] Minhas turmas
 
 ### Telas à serem feitas
 
